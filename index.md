@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to SeaChange GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Hub-Q/.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
